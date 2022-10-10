@@ -1,0 +1,59 @@
+table, tr, th, td{
+    border: 1px solid black;
+}
+.chuong_trinh_hoc table, tr, th, td{
+    border: 1px solid rgb(210, 91, 198);
+}
+
+.phieu_dk table{
+    width: 600px;
+    margin-left: 500px;
+}
+.phieu_dk h2{
+    margin-left: 550px;
+}
+.chuong_trinh_hoc table{
+    margin-left: 500px;
+}
+.chuong_trinh_hoc h2{
+    margin-left: 600px;
+}
+.inf_mon{
+    display: flex;
+    align-items: center;
+   
+}
+.mon_an{
+    width: 700px;
+    height: 500px;
+    background-color: rgb(234, 173, 129);
+    margin-left: 470px;
+}
+
+.mon_an h2{
+    display: inline-block;
+    padding: 30px 230px;
+}
+.inf_mon img{
+    width: 300px;
+    height: 200px;
+}
+.color_brown{
+    background-color: rgb(241, 68, 68);
+}
+
+.inf_mon table{
+    width: 400px;
+    height: 300px;
+}
+
+.inf_shop{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 100px;
+}
+.inf_shop img{
+    width: 150px;
+    height: 200px;
+}
